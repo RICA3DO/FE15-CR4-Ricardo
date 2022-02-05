@@ -1,0 +1,21 @@
+.hero {
+    height: 45rem;
+    background-position: bottom;
+    background-size: cover;
+}
+.text {
+    text-align: center;
+    margin-left: 10em;
+    margin-top: -20em;
+    font-size: larger;
+}
+.form-control {
+    width: 50rem;
+}
+.foot {
+    background-color: #000000;
+    color: white;
+    background-position: bottom;
+    margin-top: 50rem;
+    height: 10rem;
+}
