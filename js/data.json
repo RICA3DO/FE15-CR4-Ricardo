@@ -1,0 +1,73 @@
+let array = `[{
+    "info": "1",
+    "taskName": "Read Berserk (manga)",
+    "time": "Date: Every Day",
+    "image": "images/Berserk.jpg",
+    "description": "Description: Sometimes you need to read ",
+    "danger": "images/danger.png",
+    "importance": "0"
+}, {
+    "info": "2",
+    "taskName": "Coding",
+    "time": "Date: From Monday until Friday",
+    "image": "images/coding.jpg",
+    "description": "Description: Code so you end up with a good workplace! ",
+    "danger": "images/danger.png",
+    "importance": "0"
+}, {
+    "info": "3",
+    "taskName": "Cleaning your apartment",
+    "time": "Date: Once a Week",
+    "image": "images/cleaning.jpg",
+    "description": "Description: Dont be lazy, clean your room! ",
+    "danger": "images/danger.png",
+    "importance": "0" 
+}, {
+    "info": "4",
+    "taskName": "Walk the Dog",
+    "time": "Date: In the Morning and in the Evening",
+    "image": "images/dogw.jpg",
+    "description": "Description: Care for your Dog because He/She cares about you ",
+    "danger": "images/danger.png",
+    "importance": "0"
+}, {
+    "info": "5",
+    "taskName": "Watch a film",
+    "time": "Date: Every Sunday",
+    "image": "images/film.jpg",
+    "description": "Description: Watching a Film to relax is necessary ",
+    "danger": "images/danger.png",
+    "importance": "0"
+}, {
+    "info": "6",
+    "taskName": "Play videogames",
+    "time": "Date:  Every Sunday",
+    "image": "images/playing.jpg",
+    "description": "Description: Playing is also good to relax ",
+    "danger": "images/danger.png",
+    "importance": "0"
+ },{
+    "info": "7",
+    "taskName": "Study",
+    "time": "Date: From Monday until Friday",
+    "image": "images/harold.jpg",
+    "description": "Description: Studying is good! ",
+    "danger": "images/danger.png",
+    "importance": "0"
+}, {
+    "info": "8",
+    "taskName": "Meetup With Friends",
+    "time": "Date: Usually on Sundays",
+    "image": "images/meetup.jpg",
+    "description": "Description: Talk to your friends!! ",
+    "danger": "images/danger.png",
+    "importance": "0"
+}, {
+    "info": "9",
+    "taskName": "Buying groceries",
+    "time": "Date: Friday",
+    "image": "images/groceries.jpg",
+    "description": "Description: Buy groceries so you wont die of hunger on the weekend :) ",
+    "danger": "images/danger.png",
+    "importance": "0"
+}]`;
